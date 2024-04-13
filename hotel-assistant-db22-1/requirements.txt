@@ -11,3 +11,5 @@ opencv-python
 PyScreeze==0.1.29
 pyaudio
 pyht
+pymongo
+groq
