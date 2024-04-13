@@ -342,6 +342,7 @@ async def process_transcription_data(name):
         if has_end_convo:
             d, fs = sf.read("assets/outro.wav")
             sd.play(d, fs)
+            sd.wait()
             print('Call ended from our side.')
             self_end_call = pg.locateOnScreen('assets/buttons/self_end_call.png', confidence = 0.98)
             if self_end_call:
