@@ -1,0 +1,56 @@
+Category,Sub Category,Sub Sub Category,Question type,Information Required From Client,Question,Sample Answer
+Room,Reservation,Booking,Database,"Check-in date, Check-out date, Number of Rooms",Can you check if there are any rooms available?,"If user details are provided: I have booked a room for you, thank you for choosing our  Hotel, you will get a confirmation SMS. Is there anything else I can assist you with?      If check-in and check-out dates are not provided: Sure, I would be happy to provide you with the details. can you please help me with the check-in and check-out dates."
+Room,Cancel/Refund,Cancellation,FAQs,NA,Can I cancel my booking?,"Yes sir/mam, booking cancellation is allowed 24 hours before check-in, without any charges. Within 24 hours 50% of the room charges will be levied."
+Room,Reservation,Modify,Database,"Reservation Details, New check-in date, New check-out date
+",I need to change the dates of my reservation. How can I do that?,"Sure sir/mam, to change your reservation dates, can you please provide your booking ID or mobile number and the new check-in and check-out dates?"
+Hotel,Policy,Check In/Check Out time,FAQs,NA,What are the check-in and check-out times?,"Check-in is at 1 PM, and check-out is at 11 AM."
+Hotel,Services,Wi-Fi,FAQs,NA,How can I access the hotel Wi-Fi?,"To access the Wi-Fi, please search for the network 'HotelGuest' in available networks and you can use your room number as the password."
+Room,Services,Extra bed,FAQs,NA,Can I request an extra bed or crib in my room?,"Sure sir/mam. You can get an extra bed or crib upon request, subject to availability. This is on a chargeable basis. If you let me know what time you need it we can have the room service setup for you."
+Hotel,Policy,Pets,FAQs,NA,Are pets allowed in the hotel?,Pets are welcome with prior notice and a fee of [insert fee] per stay. Would you like to know about the detailed pet policy at our hotel
+Hotel,Attractions,Nearby attractions,FAQs,NA,What are some must-see attractions nearby?,"Delhi has many attractions to explore such as Red Fort (Lal Qila) 
+- Jama Masjid 
+- Humayun's Tomb -
+- If you want to shop then you can visit Chandni Chowk,  famous for its street food, fabrics, jewellery, and electronics.
+
+I would be happy to provide more information if needed."
+Hotel,Policy,Smoking,FAQs,NA,What is the hotel's smoking policy?,Our hotel is entirely non-smoking. Smoking is permitted in designated outdoor areas only.
+Hotel,Check In/Check Out,early check-in,FAQs,NA,Can I check in early if I arrive before the standard check-in time?,Early check-in is subject to availability. Please contact us in advance and we'll do our best to accommodate your request.
+Room,Room type,Booking,Database,"Check-in and Check-out Dates,Number of Guests","What room types do you have available (e.g., single, double, suite)?","We have 4 types of rooms  Classic Rooms, Executive Rooms, Superior Rooms and Suites. Do you have any specific preference or would you like to book a Classic Room?
+"
+Room,Room type,Rates,Database,"Dates of Stay,Number of Guests",What is the rate for Superior Room?,"Currently, the rate for our Superior Room starts at 35,000 per night. However, rates may vary depending on factors such as the date of stay, length of stay, and any special promotions or discounts available."
+Room,Reservation,reservation,FAQs,NA,How can I make a reservation?,"Sure, I can make a reservation for you."
+Room,Cancel/Refund,Cancellation,FAQs,NA,What is your cancellation policy?,"Our cancellation policy allows for free cancellation until 24 hours before your scheduled arrival. Cancellations made after this time will incur a penalty equivalent to half of night's charge, in addition to any applicable taxes and fees."
+Hotel,Services,Parking,FAQs,NA,"Do you have onsite parking, and is there a fee?","Yes, we do offer onsite parking for our guests, and the best part is there is no fee for parking!"
+Hotel,Services,Cab Service,FAQs,NA,Is there cab service to/from the airport or other locations?,"Yes, we provide pick-up and Drop services to and from the airport.Please note that this service is chargeable"
+Hotel,Attractions,Tours,FAQs,NA,Do you have information about tours or activities in the area?,"Certainly  There are multiple tours available such as tours to Connaught Place, Lutyens' Delhi, India Gate and Rashtrapati Bhawan. "
+Room,Payment/offer,Payment methods,FAQs,NA,What forms of payment do you accept?,"We accept payments in various forms such as credit cards, debit cards, and cash."
+Hotel,Accessible,Accessible facilities,FAQs,NA,Are your facilities accessible for guests with disabilities?,"Yes, absolutely. We are committed to ensuring that all of our guests, including those with disabilities, have a comfortable and accessible stay with us."
+Hotel,Services,Storage,FAQs,NA,Do you have storage facilities for something valuable?,"Yes, you will get a locker in the wardrobe of your hotel. It uses a secure digital password that can be generated by you while locking. You can keep your valuables in that."
+Room,Room type,room descriptions,FAQs,NA,Where can I find room descriptions?,Room descriptions can be found on our website at the www.tajhotels.com/description. Or you can provide your email address and I can mail the details there.
+Room,Reservation,No. of rooms,Database,"Check-in and Check-out Dates,Number of Rooms",Can I book more than one room at a time?,"Certainly sir/mam, that should not be a problem."
+Room,Reservation,Reservation confirmation,FAQs,NA,Will I receive a confirmation of my reservation?,"Yes, you should receive a confirmation of your reservation on the email you had shared"
+Hotel,Fitness,Gym,FAQs,NA,Can you provide any information on what is in your gym?,"Our gym facilities include state-of-the-art equipment for cardio and strength training. You can enjoy amenities such as treadmills, steppers, weights, and yoga mats."
+Hotel,Restaurants/Club,Club,FAQs,NA,Is there a club lounge access with free drinks and snacks available?,We offer club lounge access with one complimentary drink and snacks for eligible guests.
+Hotel,Fitness,Yoga classes,FAQs,NA,Are all guests free to attend yoga classes?,"All guests are welcome to attend yoga classes, usually offered as part of our wellness program. Yoga classes are offered at 8:00 AM and 5:00 PM daily."
+Hotel,Services,Wi-Fi,FAQs,NA,Is the Wi-Fi accessible in all areas of the hotel?,"Yes, sir/mam, Wi-Fi is accessible in all areas of the hotel, including rooms, lobby, and common areas."
+Hotel,Services,Swimming Pool,FAQs,NA,Swimming pool costume is necessary?,Swimming pool costume is necessary for all guests using the pool area.
+Hotel,Fitness,Yoga classes,FAQs,NA,What time are the yoga classes offered?,Yoga classes are offered at 8:00 AM and 5:00 PM daily.
+Hotel,Fitness,Yoga classes,FAQs,NA,Do you provide yoga mats for the classes?,"Yoga mats are usually provided for the classes, but guests are welcome to bring their own if preferred."
+Hotel,Fitness,Yoga classes,FAQs,NA,How long do the yoga sessions typically last?,Yoga sessions typically last for one hour.
+Hotel,Restaurants/Club,Club,FAQs,NA,What time does the club open?,"The club typically opens in the evening, usually around 8:00 PM, but exact opening times may vary depending on the day of the week and any special events."
+Hotel Services,Services,Babysitting,FAQs,NA,Does the hotel offer babysitting services?,"The hotel may offer babysitting services upon request, subject to availability and additional charges."
+Hotel Services,Services,Cribs/baby cots,FAQs,NA,Do you provide cribs or baby cots for infants?,"Yes, we provide cribs or baby cots for infants upon request to ensure a comfortable stay for your little ones."
+Hotel,Services,Childcare,Database,Specific Needs or Preferences,Can you recommend any childcare services in the area?,"Certainly! We recommend xyzChildcare , located just 10 km away from our hotel. "
+Hotel,Parking,vehicle charging,FAQs,NA,Are there electric vehicle charging stations available?,"Yes, we do provide electric vehicle charging stations for our guests' convenience."
+Hotel,House Keeping,laundry,FAQs,NA,Is laundry service available at the hotel?,"Yes, laundry service is available."
+Hotel,House Keeping,laundry,FAQs,NA,What are the laundry service hours?,Laundry service hours are from 8:00 AM to 6:00 PM.
+Hotel,Attractions,Tourism,FAQs,NA,Are there any famous museums or art galleries in the area?,"Yes, the City Art Gallery and National Museum showcase renowned works of art."
+Hotel,Restaurants/Club,Restaurants,FAQs,NA,What are some popular restaurants or cafes within walking distance?,"Sir/Mam, you can go Check out the vibrant eateries on Main Street for popular dining options within walking distance"
+Hotel,Attractions,Shopping,FAQs,NA,Can you recommend any local markets or shopping areas?,"Certainly sir, the Farmer's Market for local produce and unique shopping experiences."
+Hotel,Attractions,Entertainment,FAQs,NA,Are there any theaters or cinemas nearby for entertainment?,Enjoy entertainment at the nearby (name) Theater showcasing the latest shows and films
+Hotel,Attractions,Sports,FAQs,NA,Are there any sports stadiums or arenas nearby for events or games?,"Yes there are 2 stadiums nearby, one of Cricket and another for Hockey"
+Hotel,Transportation,Public transport,FAQs,NA,Is there a nearby metro station?,"Yes, there is a Shivaji Metro Station is a 5-minute walk from the Hotel, It provides convenient access to various attractions and destinations in the city."
+Hotel,Transportation,cab service,FAQs,NA,Are taxi services readily available from the hotel?,Taxi services are readily available from the hotel; our staff can assist you in arranging transportation as needed.
+Room,Services,Room service,FAQs,NA,Can I order food from outside the hotel through room service?,"Unfortunately, we only provide food from our hotel's restaurant for room service. We can provide you the utensils to enjoy your food"
+Room,Services,Room service,FAQs,NA,Do you offer 24-hour room service?,"Yes, we offer 24-hour room service for our guests."
+Hotel,Reservation,Booking,Database,"Check-in date, Check-out date, Number of Rooms",Can you check if there are any rooms available?,"If user details are provided: I have booked a room for you, thank you for choosing our  Hotel, you will get a confirmation SMS. Is there anything else I can assist you with?      If check-in and check-out dates are not provided: Sure, I would be happy to provide you with the details. can you please help me with the check-in and check-out dates."

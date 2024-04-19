@@ -1,0 +1,71 @@
+____________ New transcript received but audio did not stop
+
+audio Played: Our hotel offers complimentary WiFi to all guests
+sentence sent to playht:  Our hotel offers complimentary WiFi to all guests
+audio Played: The network name and password are displayed on the back of your room door
+sentence sent to playht:  The network name and password are displayed on the back of your room door
+transcript Hello? Hello?
+full_transcript Hello? Hello? 
+speech_final
+full_transcript Hello? Hello?
+handle transcript called
+handle_transcript
+current processing task   <Task finished name='450d512f-6019-445e-b393-cb870e505a70' coro=<process_transcription_data() done, defined at main7.py:280> result=[]>        
+in progress
+process stopped --handle transcript 1
+previous_query:
+current_query: I said that I want to Wifi
+transcription buffer
+current processing task  <Task finished name='450d512f-6019-445e-b393-cb870e505a70' coro=<process_transcription_data() done, defined at main7.py:280> result=[]>
+current query  I said that I want to Wifi
+current query  Hello? Hello?
+current_processing_task:  <Task pending name='c4ff865f-2ff1-4e06-b2b6-745051064ba4' coro=<process_transcription_data() running at main7.py:280>>
+chat_history: []
+previous_query1: I said that I want to Wifi
+current_query1: Hello? Hello?
+print_and_save called
+I said that I want to Wifi
+Hello? Hello?
+1
+content {
+"Category": "Hotel",
+"Sub Category": "Services",
+"Context Given": "No"
+}
+result ['{"Category": "Hotel", "Sub Category": "Services", "Context Given": "No"}']
+content {"FillerNo": "4", "QuestionType": "FAQ"}
+Hello, I'm here to help you. Regarding your Wi-Fi request, our hotel offers complimentary Wi-Fi access throughout the property. You can connect to the network using the 
+password provided during check-in. If you have any issues, please let me know.
+result ['{"FillerNo": "4", "QuestionType": "FAQ"}']
+results: [['{"Category": "Hotel", "Sub Category": "Services", "Context Given": "No"}'], ['{"FillerNo": "4", "QuestionType": "FAQ"}']]
+audio Played: If you're having trouble connecting, feel free to give me a ring and I'll be happy to assist you
+category_filler: [['{"Category": "Hotel", "Sub Category": "Services", "Context Given": "No"}'], ['{"FillerNo": "4", "QuestionType": "FAQ"}']]
+2
+sentence sent to playht:  If you're having trouble connecting, feel free to give me a ring and I'll be happy to assist you
+print_and_save called
+Processing text to extract details...
+Playing audio file: assets/fillers/cat1fillerno4.wav
+3
+print_and_save called
+print_and_save called
+running
+category_filler: [['{"Category": "Hotel", "Sub Category": "Services", "Context Given": "No"}'], ['{"FillerNo": "4", "QuestionType": "FAQ"}']]
+filler_no: 4
+Category: Hotel
+Sub_Category: Services
+QuestionType: FAQ
+4
+4
+5
+print_and_save called
+print_and_save called
+category: {'Category': 'Hotel', 'Sub Category': 'Services', 'QuestionType': 'FAQ', 'ContextGiven': 'No'}
+General Inquiry - FAQ
+print_and_save called
+print_and_save called
+print_and_save called
+audio Played: Is there anything else I can help you with
+sentence sent to playht:  Is there anything else I can help you with
+audio Played: "
+sentence sent to playht:  "
+"Sure thing! Our hotel offers complimentary WiFi to all guests. The network name and password are displayed on the back of your room door. If you're having trouble connecting, feel free to give me a ring and I'll be happy to assist you. Is there anything else I can help you with?"

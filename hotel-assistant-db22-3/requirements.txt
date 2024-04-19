@@ -1,0 +1,16 @@
+numpy
+faiss-cpu
+scikit-learn
+soundfile
+sounddevice
+python-dotenv
+openai==0.28.0
+pyautogui
+websockets
+opencv-python
+PyScreeze==0.1.29
+pyaudio
+pyht
+pymongo
+groq
+cohere==5.2.5
