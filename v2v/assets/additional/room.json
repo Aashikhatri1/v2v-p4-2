@@ -1,0 +1,290 @@
+[
+    {
+        "Date": "1-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "4"
+    },
+    {
+        "Date": "1-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "2-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Garden view",
+        "NumberOfRoomsAvailable": "7"
+    },
+    {
+        "Date": "2-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "6"
+    },
+    {
+        "Date": "3-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "3-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "7"
+    },
+    {
+        "Date": "4-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "10"
+    },
+    {
+        "Date": "4-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "20"
+    },
+    {
+        "Date": "5-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "2"
+    },
+    {
+        "Date": "6-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "7-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Garden view",
+        "NumberOfRoomsAvailable": "4"
+    },
+    {
+        "Date": "8-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "9-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "7"
+    },
+    {
+        "Date": "9-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "8"
+    },
+    {
+        "Date": "9-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "7"
+    },
+    {
+        "Date": "10-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "11"
+    },
+    {
+        "Date": "10-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "3"
+    },
+    {
+        "Date": "10-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "2"
+    },
+    {
+        "Date": "10-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "4"
+    },
+    {
+        "Date": "10-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "10-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Garden view",
+        "NumberOfRoomsAvailable": "7"
+    },
+    {
+        "Date": "11-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "6"
+    },
+    {
+        "Date": "11-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "11-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "7"
+    },
+    {
+        "Date": "11-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "10"
+    },
+    {
+        "Date": "11-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "20"
+    },
+    {
+        "Date": "11-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Garden view",
+        "NumberOfRoomsAvailable": "11"
+    },
+    {
+        "Date": "11-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "3"
+    },
+    {
+        "Date": "11-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "2"
+    },
+    {
+        "Date": "12-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "4"
+    },
+    {
+        "Date": "13-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "14-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "7"
+    },
+    {
+        "Date": "15-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Garden view",
+        "NumberOfRoomsAvailable": "6"
+    },
+    {
+        "Date": "16-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "17-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "7"
+    },
+    {
+        "Date": "18-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "8"
+    },
+    {
+        "Date": "19-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "2"
+    },
+    {
+        "Date": "20-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "21-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Garden view",
+        "NumberOfRoomsAvailable": "4"
+    },
+    {
+        "Date": "22-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "23-Apr-24",
+        "RoomType": "Superior Room",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "7"
+    },
+    {
+        "Date": "24-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Park view",
+        "NumberOfRoomsAvailable": "8"
+    },
+    {
+        "Date": "25-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "2"
+    },
+    {
+        "Date": "26-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "27-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Garden view",
+        "NumberOfRoomsAvailable": "4"
+    },
+    {
+        "Date": "28-Apr-24",
+        "RoomType": "Taj Club Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "2"
+    },
+    {
+        "Date": "29-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Pool view",
+        "NumberOfRoomsAvailable": "5"
+    },
+    {
+        "Date": "30-Apr-24",
+        "RoomType": "Luxury Suite",
+        "RoomAmenities": "Garden view",
+        "NumberOfRoomsAvailable": "4"
+    }
+]
